@@ -18,6 +18,7 @@ function image(){
     document.querySelector(".img1").setAttribute("src", rendomImg1);
     document.querySelector(".img2").setAttribute("src", rendomImg2);
 }
+edited
  winer();
 
  function refreshPage(){
