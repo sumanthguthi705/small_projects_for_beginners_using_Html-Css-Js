@@ -11,8 +11,8 @@ if(rendom1 < rendom2){
     document.querySelector("h1").innerHTML="Drow"
     }else {
         document.querySelector("h1").innerHTML="Player 1 wins"
-    } 
-}
+    
+
 
 function image(){
     document.querySelector(".img1").setAttribute("src", rendomImg1);
